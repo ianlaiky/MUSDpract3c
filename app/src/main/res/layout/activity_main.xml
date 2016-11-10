@@ -8,7 +8,9 @@
     tools:context="com.nyp.sit.dit.it2107.mymenu.MainActivity">
 
     <TextView
-        android:layout_width="wrap_content"
+        android:id="@+id/tbItemSelected"
+        android:layout_width="fill_parent"
         android:layout_height="wrap_content"
-        android:text="Hello World!" />
+        android:text="Debugging Scratch Pad"
+        />
 </RelativeLayout>
